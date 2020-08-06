@@ -28,3 +28,4 @@ Fill in the required information.
 
 ## Legal
 Please see legal information [here](legal/index.md) 
+> **Note:** This section also covers the process and signing of **CLA**.
