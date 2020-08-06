@@ -1,3 +1,9 @@
+---
+title: OCP GitHuB Process
+layout: template
+filename: index.md
+--- 
+
 ![](images/opencompute-TM-logo-1-1500w-v1-1.jpg)
 
 
