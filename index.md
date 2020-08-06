@@ -16,7 +16,7 @@ Members are welcome to join the mailing list for the respective project and star
 
 4. Members shall go through to the Project/Sub-Project page and familiarize themselves with the charter, the wiki and current activity within the community.
 
-5. Members shall familiarize themselves with the [OCP Software Development Process]([https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/software/index.md](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/software/index.md)). 
+5. Members shall familiarize themselves with the [OCP Software Development Process](software/index.md). 
 
 ## Step-2
 Fill in the required information.
