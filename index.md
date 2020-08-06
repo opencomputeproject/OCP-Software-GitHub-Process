@@ -6,3 +6,9 @@ Step-1
 -------------
 
  1. Please get familiar with our Governance Document [Governance Document][1] (specifically the section on Software Projects starting on Pg 16).
+
+
+
+
+
+  [1]: https://www.opencompute.org/documents/amended-governance-for-reference-only
