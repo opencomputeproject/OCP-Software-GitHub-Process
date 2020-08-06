@@ -4,8 +4,7 @@ Getting Started with Open Compute Project (OCP) Github
 ===================
 OCP welcomes all members to join this open source community and contribute to any OCP project.
 
-Step-1
--------------
+### Step-1
 
 1. Please get familiar with our Governance Document [Governance Document]( https://www.opencompute.org/documents/amended-governance-for-reference-only) (specifically the section on Software Projects starting on Pg 16).  
 
@@ -18,7 +17,7 @@ Members are welcome to join the mailing list for the respective project and star
 
 5. Please visit **[OCP Software Development Process](software/index.md)** page for familiarization. 
 
-## Step-2
+### Step-2
 Fill in the required information.
 
 -   Complete the [Scope.md](https://github.com/opencomputeproject/OCP-Software-GitHub-Process/blob/master/Scope.md) file, which determines the scope of your Working Group and its patent coverage.
