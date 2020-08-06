@@ -117,7 +117,9 @@ The **Incubation Committee Representative (ICR)**: The ICR is an ambassador to o
 -   Any meetings of the TSC are intended to be open to the public and can be conducted electronically, via teleconference, or in person.
 -   The TSC may
     -   Establish workflow procedures for the submission, approval, and closure/archiving of Project.
+    
     - Set requirements for the promotion of contributors to committer status, as applicable, and
+    
     - Amend, adjust, refine and/or eliminate the roles of contributors, and committers, and create new roles, and publicly document any TSC roles, as it sees fit.
     
 -  The TSC shall elect a chair who will preside over meetings of the TSC. The TSC shall elect a new chair every 12 months. A current or previous chairperson is eligible to serve any number of terms as chair.
@@ -125,18 +127,31 @@ The **Incubation Committee Representative (ICR)**: The ICR is an ambassador to o
 - The TSC shall review its membership every 12 months, in the month following the election of the TSC chair. Membership on the TSC is limited to OCP Corporate Tiered Members and code committers (or persons employed by a code committing company). Members are added or removed by majority vote of the TSC. An existing TSC member that has not committed code within the prior 12 months shall be disqualified from the TSC.
 
 - The TSC will be responsible for all technical aspects or oversight relating to the Software Project. When such responsibilities involve vital functions performed by the OCP Foundation, the TSC shall seek support and ratification. These responsibilities may include (but not limited to) the following:
+
 	- Maintain a roadmap of planned feature additions or subtractions, with expected timeline for feature release.
+	
 	- Approve Software Project or system proposals (including, but not limited to, incubation, deprecation and changes to a Sub-Project’s scope);
+	
 	- Appointing representatives to work with other open source or open standards communities;
+	
 	- Establishing community norms, workflows, issuing releases, and security issue reporting policies;
+	
 - Approving and implementing policies and processes for contributing (to be published in the repository) and coordinating with the OCP Foundation and IC to resolve matters or concerns that may arise.
+
 - Holding open discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
+
 - Coordinating any marketing, events, or communications regarding the Software Project with the OCP Foundation.
+
 - Publishing the list of TSC members and contact information on the repository.
+
 - TSC Voting
+
 	- While the Software Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Software Project forward, the voting members of the TSC will vote on a one vote per voting member basis.
+	
 	- Quorum for TSC meetings requires at least two-thirds of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met, but the TSC will be prevented from making any decisions at the meeting.
+	
 	- Decisions by vote at a meeting require a majority vote of those in attendance, provided a quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.
+	
 	- In the event a vote cannot be resolved by the TSC, any voting member of the TSC may refer the matter to the OCP IC for assistance in reaching a resolution. In the case of a tie vote, the IC will cast the deciding vote.
     
 
@@ -177,7 +192,7 @@ All code contributions to the Software Project are subject but not limited to th
 - The committers will also have the sign the “Developer Certificate of Origin (DCO)” from GitHub. This is a way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the OCP software project.
 
 - A Software Project may, upon approval of the OCP Foundation, license its code under more than one Project code license.
--
+
 - All outbound code will be made available under the Software Project License.
 
 - Documentation will be received and made available by the Software Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/)
