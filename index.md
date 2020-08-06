@@ -18,3 +18,12 @@ Members are welcome to join the mailing list for the respective project and star
 4. Members shall go through to the Project/Sub-Project page and familiarize themselves with the charter, the wiki and current activity within the community.
 
 5. Members shall familiarize themselves with the OCP Software Development Process. Please click [here](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/OCP%20Software%20GitHub%20Process.md) more more information.
+
+## Step-2
+Fill in the required information.
+
+-   Complete the [Scope.md](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/Scope.md) file, which determines the scope of your Working Group and its patent coverage.
+    
+-   Modify [Notices.md](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/Notices.md) to add contact(s) for code of conduct issues.
+    
+-   License.md must list the type of OSI license selected for the source code that is included in the specification. The default license is MIT, and you may change that to an open source license of your choosing.
