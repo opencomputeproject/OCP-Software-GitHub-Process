@@ -26,4 +26,4 @@ Fill in the required information.
     
 -   Modify [Notices.md](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/Notices.md) to add contact(s) for code of conduct issues.
     
--   [License.md](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/License.md must list the type of OSI license selected for the source code that is included in the specification. The default license is MIT, and you may change that to an open source license of your choosing.
+-   [License.md](https://github.com/opencomputeproject/OCP-Software-GitHib-Process/blob/master/License.md) must list the type of OSI license selected for the source code that is included in the specification. The default license is MIT, and you may change that to an open source license of your choosing.
