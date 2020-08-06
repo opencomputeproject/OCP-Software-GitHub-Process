@@ -1,4 +1,4 @@
-![](images/open_compute.png)
+![](images/opencompute-TM-logo-1-1500w-v1-1.jpg)
 
 
 Getting Started with Open Compute Project (OCP) Github
