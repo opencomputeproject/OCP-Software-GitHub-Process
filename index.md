@@ -1,3 +1,4 @@
+![](images/open_compute.png)
 Getting Started with Open Compute Project (OCP) Github
 ===================
 OCP welcomes all members to join this open source community and contribute to any OCP project.
