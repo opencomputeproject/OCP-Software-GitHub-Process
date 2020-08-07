@@ -197,7 +197,7 @@ All code contributions to the Software Project are subject but not limited to th
 
 - Documentation will be received and made available by the Software Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/)
 
-- Development of specifications, standards, best practices, guidelines, and other similar materials by the project shall use the Community Specification License. [insert link]
+- Development of specifications, standards, best practices, guidelines, and other similar materials by the project shall use the [Community Specification License](https://github.com/opencomputeproject/OCP-Software-GitHub-Process/blob/master/legal/OCP%20SW%20CLA%2008032020.pdf).
 
 - All software in the Software Project repository not covered under an OSI-approved license must be submitted via a Contribution License Agreement.
 
