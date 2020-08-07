@@ -1,4 +1,4 @@
 ## Source Code License
 
-Please mentioned the OSI license name. Default is MIT
+Please mention the OSI license name for the source code. Default is MIT
 
