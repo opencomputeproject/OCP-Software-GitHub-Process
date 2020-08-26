@@ -10,4 +10,4 @@ signed by each Contributor, indicating agreement to the license terms. This lice
 protection as a Contributor as well as the user and OCP; it does not change your rights to use
 your own Contributions for any other purpose.
 
-Please follow the process and sign the CLA [here](https://github.com/opencomputeproject/OCP-Software-GitHub-Process/blob/master/legal/OCP%20SW%20CLA%2008032020.pdf). 
+Please follow the process and sign the CLA [here](https://github.com/opencomputeproject/OCP-Software-GitHub-Process/blob/master/legal/OCP%20SW%20CLA%20DRAFT%2008032020.pdf). 
