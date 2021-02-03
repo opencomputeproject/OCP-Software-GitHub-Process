@@ -257,7 +257,7 @@ cond(no)->op
   [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
 
-  [1]: https://www.opencompute.org/documents/amended-governance-for-reference-only
+  [1]: https://www.opencompute.org/documents/amended-governance-updated-september-18th-2020
   [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
   [3]: https://github.com/jmcmanus/pagedown-extra "Pagedown Extra"
   [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
