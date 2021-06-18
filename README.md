@@ -4,7 +4,7 @@ OCP welcomes all members to join this open source community and contribute to an
 Step-1
 -------------
 
- 1. Please get familiar with our Governance Document [Governance Document][1] (specifically the section on Software Projects starting on Pg 16).
+ 1. Please get familiar with our [Governance Document][1] (specifically the section on Software Projects starting on Pg 16).
 
 Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
@@ -257,7 +257,7 @@ cond(no)->op
   [^stackedit]: [StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
 
-  [1]: https://www.opencompute.org/documents/amended-governance-updated-february-22nd-2021
+  [1]: https://www.opencompute.org/documents/ocp-governance-updated-june-10th-2021
   [2]: http://daringfireball.net/projects/markdown/syntax "Markdown"
   [3]: https://github.com/jmcmanus/pagedown-extra "Pagedown Extra"
   [4]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
