@@ -4,7 +4,7 @@ OCP welcomes all members to join this open source community and contribute to an
 Step-1
 -------------
 
- 1. Please get familiar with our [Governance Document][1] (specifically the section on Software Projects starting on Pg 16).
+ 1. Please get familiar with our [Governance Document][https://www.opencompute.org/documents/ocp-governance-updated-june-1-2023] (specifically the section on Software Projects starting on Pg 16).
 
 Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
