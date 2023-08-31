@@ -6,7 +6,7 @@ OCP welcomes all members to join this open source community and contribute to an
 
 ### Step-1
 
-1. Please get familiar with our Governance Document [Governance Document](https://www.opencompute.org/documents/amended-governance-updated-february-22nd-2021)  (specifically the section on Software Projects starting on Pg 16).  
+1. Please get familiar with our Governance Document [Governance Document](https://www.opencompute.org/documents/ocp-governance-updated-june-1-2023)  (specifically the section on Software Projects starting on Pg 16).  
 
 2.  Members are encouraged to follow the OCP **Code of Conduct** in this [document](https://github.com/opencomputeproject/OCP-Software-GitHub-Process/blob/master/Code%20of%20conduct.md) and agree. 
 Members are welcome to join the mailing list for the respective project and start attending & contributing to the weekly discussion on the ongoing activities to contribute. [Project and Sub-Project Group](https://www.opencompute.org/projects) mailing lists can be subscribed from their respective project pages.
