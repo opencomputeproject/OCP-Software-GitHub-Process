@@ -31,5 +31,5 @@ Please see legal information [here](legal/index.md)
 
 ## Software Contributions
 Please see software contributions information [here](software_contributions/index.md)
-> **Note:** Detailed information can also be gathered from the [OCP Software Governance](https://www.opencompute.org/documents/amended-governance-updated-february-22nd-2021) document (starting pg-16).
+> **Note:** Detailed information can also be gathered from the [OCP Software Governance](https://www.opencompute.org/documents/ocp-governance-updated-june-1-2023) document.
 
